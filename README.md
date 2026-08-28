@@ -1,2 +1,2 @@
 #Cronomonkey
-https://github.com/Flaviaaldri/Cronomonkey.git
+https://github.com/flaviaaldri/Cronomonkey/
